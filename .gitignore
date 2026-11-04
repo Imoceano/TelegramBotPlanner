@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+tasks.db
+.DS_Store
+any.txt
